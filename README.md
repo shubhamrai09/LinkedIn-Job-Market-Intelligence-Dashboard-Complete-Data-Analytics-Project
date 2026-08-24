@@ -19,7 +19,7 @@ Which experience levels are most frequently requested?
 How many jobs and companies are represented in the dataset?
 What does the overall job market look like?
 
-# 🔄 End-to-End Data Analytics Workflow
+##  🔄 End-to-End Data Analytics Workflow
 Raw Job Market Data
         ↓
 Excel
@@ -48,7 +48,7 @@ Business Insights
 📊 Data Visualization	Business insights and data storytelling
 
 
-# 1️⃣ Excel – Data Cleaning & Preparation
+## 1️⃣ Excel – Data Cleaning & Preparation
 
 The first stage of the project involved preparing the raw dataset.
 
@@ -64,9 +64,9 @@ Prepared the dataset for SQL and Python analysis
 Excel provided the foundation for creating a clean and reliable dataset.
 
 
-# 2️⃣ SQL – Data Analysis
+## 2️⃣ SQL – Data Analysis
 
-## SQL was used to perform structured analysis on the cleaned job-market data.
+ SQL was used to perform structured analysis on the cleaned job-market data.
 
 SQL analysis included:
 Filtering job postings
@@ -83,9 +83,9 @@ Using JOIN
 Creating analytical queries
 
 
-# 3️⃣ Python – Data Analysis & EDA
+## 3️⃣ Python – Data Analysis & EDA
 
-# Python was used for deeper data analysis and exploratory data analysis.
+ Python was used for deeper data analysis and exploratory data analysis.
 
 Libraries Used
 import pandas as pd
@@ -106,7 +106,7 @@ Pandas was primarily used for data manipulation and analysis.
 
 
 
-# 4️⃣ Power BI – Interactive Dashboard
+## 4️⃣ Power BI – Interactive Dashboard
 
 The final stage was creating an interactive LinkedIn Job Market Intelligence Dashboard using Power BI.
 
@@ -116,18 +116,18 @@ Dashboard Filters
 📅 Date Range
 🌎 Country
 
-# 📊 Dashboard KPIs
+## 📊 Dashboard KPIs
 
 The dashboard currently displays:
 
-# KPI	Value
+## KPI	Value
 💼 Total Jobs	102.6K
 🏢 Total Companies	18.7K
 👀 Average Views per Job	312
 📍 Total Locations	7.3K
 
 
-# 🏆 Top Hiring Companies
+## 🏆 Top Hiring Companies
 
 The dashboard identifies the leading companies by number of job postings.
 
@@ -144,7 +144,7 @@ Cognizant — 2.3K
 Capgemini — 2.1K
 
 
-# 💻 Jobs by Work Type
+## 💻 Jobs by Work Type
 
 The dashboard analyzes job postings across different working arrangements:
 
@@ -156,7 +156,7 @@ The dashboard analyzes job postings across different working arrangements:
 This provides a quick view of how job opportunities are distributed across different work models.
 
 
-# 🎯 Jobs by Experience Level
+## 🎯 Jobs by Experience Level
 
 The dashboard categorizes opportunities based on required experience.
 
@@ -168,7 +168,7 @@ Director — 15.1%
 
 This helps identify which career stages have the highest representation in the dataset.
 
-# 🌍 Jobs by Location
+## 🌍 Jobs by Location
 
 The geographical analysis highlights major job markets.
 
@@ -183,7 +183,7 @@ Others	51.4K
 
 The Power BI map provides a visual representation of job opportunities across different geographical locations.
 
-# 📈 Key Business Insights
+## 📈 Key Business Insights
 
 Based on the dashboard:
 
@@ -197,7 +197,7 @@ Python and Java also show strong demand.
 Excel remains an important skill within the analyzed job market
 
 
-# 🎨 Dashboard Features
+## 🎨 Dashboard Features
 
 The Power BI dashboard includes:
 
@@ -214,7 +214,7 @@ Interactive Data Exploration
 
 The dashboard was designed with a focus on clarity, usability and data storytelling.
 
-# 🎯 Project Objectives
+## 🎯 Project Objectives
 
 The main objectives of this project were to:
 
@@ -229,7 +229,7 @@ Convert raw data into actionable business insights.
 Demonstrate a complete end-to-end Data Analytics workflow.
 
 
-# 💡 What I Learned
+## 💡 What I Learned
 
 Through this project, I gained practical experience in:
 
@@ -248,7 +248,7 @@ Business Intelligence
 
 Most importantly, this project helped me understand how Excel, SQL, Python and Power BI can work together as a complete Data Analytics workflow rather than being used as isolated tools.
 
-# 🚀 Future Improvements
+## 🚀 Future Improvements
 
 Possible improvements for the next version include:
 
@@ -263,7 +263,7 @@ Add advanced DAX calculations
 Add automated data refresh
 Add predictive job-market analysis using Machine Learning
 
-# 👨‍💻 Project Summary
+## 👨‍💻 Project Summary
 
 LinkedIn Job Market Intelligence Dashboard is a complete end-to-end Data Analytics project that demonstrates the process of transforming raw job-market data into an interactive Business Intelligence solution.
 
