@@ -20,8 +20,8 @@ How many jobs and companies are represented in the dataset?
 What does the overall job market look like?
 
 ## 🖼 Screenshots
+<img width="1536" height="1024" alt="LinkedIn Job Market Intelligence Dashboard" src="https://github.com/user-attachments/assets/cf090dd2-c9fc-4dd8-ad5d-4d7fa6e3816d" />
 
-<img width="912" height="601" alt="Screenshot 2026-06-24 202333" src="https://github.com/user-attachments/assets/4622f043-8090-4b02-955d-ec81b1818de9" />
 
 
 ##  🔄 End-to-End Data Analytics Workflow
