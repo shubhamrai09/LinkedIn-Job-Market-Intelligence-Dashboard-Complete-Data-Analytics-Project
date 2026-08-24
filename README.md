@@ -19,6 +19,11 @@ Which experience levels are most frequently requested?
 How many jobs and companies are represented in the dataset?
 What does the overall job market look like?
 
+## 🖼 Screenshots
+
+<img width="912" height="601" alt="Screenshot 2026-06-24 202333" src="https://github.com/user-attachments/assets/4622f043-8090-4b02-955d-ec81b1818de9" />
+
+
 ##  🔄 End-to-End Data Analytics Workflow
 Raw Job Market Data
         ↓
